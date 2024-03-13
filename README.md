@@ -105,7 +105,8 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-![Screenshot (64)](https://github.com/sheershak44/erp-system/assets/78754106/9c232b4b-6581-4ffc-b5e5-85a539812792)
+![Screenshot (64)](https://github.com/sheershak44/erp-system/assets/78754106/f6b2e4ba-d570-449e-98ac-38771f80eedb)
+
 
 
 
