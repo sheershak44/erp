@@ -1,0 +1,323 @@
+.dashboard {
+  font-family: 'Arial', sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  background-color: #ffffff;
+  margin-top: 104px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border:1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+
+.dashboard-title {
+  color: #333;
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-family: monospace;
+}
+
+.dashboard-metrics {
+  background-color: #f2f4f8;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.header-new
+{
+  background-color: black;
+  color: white;
+}
+.metric-value {
+  font-weight: bold;
+}
+
+.dashboard-links {
+  text-align: center;
+}
+
+.dashboard-link {
+  display: inline-block;
+  background-color: #A0E9FF;
+  color: black;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.dashboard-link:hover {
+  background-color: #142d48;
+  color: white;
+}
+
+.products-management {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.product-list {
+  margin-bottom: 30px;
+}
+
+.product-item {
+  background-color: #f9f9f9;
+  border: 1px solid #e1e1e1;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  display: inline-block;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.product-detail {
+  margin-right: 10px;
+  font-size: 16px;
+}
+
+.edit-btn, .delete-btn {
+  cursor: pointer;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  transition: background-color 0.3s;
+}
+
+.edit-btn {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+
+.delete-btn {
+  background-color: #f44336; /* Red */
+  color: white;
+}
+
+
+.orders-management {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.order-item {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.order-detail {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.order-actions {
+  margin-top: 20px;
+}
+
+.order-btn {
+  cursor: pointer;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-right: 10px;
+  transition: background-color 0.3s;
+}
+
+.update-btn {
+  background-color: #007bff; /* Blue */
+  color: white;
+}
+
+.delete-btn {
+  background-color: #dc3545; /* Red */
+  color: white;
+}
+
+.order-btn:hover {
+  opacity: 0.9;
+}
+
+/* General styling for headings and page layout */
+.page-title {
+  font-size: 24px;
+  text-align: center;
+  color: #333;
+  margin-bottom: 30px;
+  font-family: monospace;
+}
+
+.form-input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form-btn {
+  padding: 8px 15px;
+  margin-right: 10px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.save {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.cancel {
+  background-color: #f44336;
+  color: white;
+}
+
+/* Styles for the product list */
+.product-list {
+  display: flex;
+  flex-direction: column; /* Stack products vertically */
+  gap: 20px; /* Space between product items */
+  padding: 20px 0; /* Padding at the top and bottom */
+
+}
+
+/* Styles for each product item */
+.product-item {
+  display: inline-block;
+  flex-direction: column; /* Stack product details vertically */
+  gap: 10px; /* Space between details and button container */
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #f8f8f8;
+  width: 58%;
+}
+
+/* Container for edit and delete buttons */
+.action-buttons {
+  display: flex;
+  flex-direction: row; /* Placing buttons in a row */
+  justify-content: space-evenly; /* Even spacing */
+}
+
+/* Style for buttons */
+.edit-product-btn, .delete-product-btn {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.edit-product-btn {
+  background-color: #007bff; /* Green */
+  color: white;
+  margin-left: 30%;
+}
+
+.delete-product-btn {
+  background-color: #f44336; /* Red */
+  color: white;
+  margin-left: 2%;
+}
+
+/* Media Queries for Responsive Adjustments */
+@media (max-width: 768px) {
+  .product-item {
+    padding: 10px;
+  }
+
+  .edit-product-btn, .delete-product-btn {
+    padding: 8px 10px;
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 576px) {
+  .action-buttons {
+    justify-content: center; /* Center buttons for narrow screens */
+  }
+}
+
+.expected-delivery-date{
+  display: flex;
+  display: inline-block;
+  color:darkblue;
+  margin-left: 4px;
+  border: 1px solid black ;
+  border-radius: 4px;
+  padding-top: 2px;
+  padding-right: 8px;
+  padding-bottom: 2px;
+  padding-left: 8px;
+}
+
+.add-product-btn {
+  background-color: #007bff;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: inline-block;
+  margin: 10px 0;
+  margin-left: 42%;
+  transition: background-color 0.3s;
+}
+
+.add-product-btn:hover {
+  background-color:black;
+}
+
+.product-form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.no-order{
+  color: darkgray;
+}
+
+.management-title {
+  text-align: center;
+  margin-top: 48px;
+  font-size: 24px;
+  margin-bottom: 18px;
+  font-family: monospace;
+}
+
+.management-title ,.product-list {
+  text-align: center;
+}
+
+.product-item {
+  margin: auto; /* Center-align product items */
+}
+
+.order-div{
+  margin-top: 16px;
+}
+
+.order-head{
+  margin-bottom: 10px;
+}
+
