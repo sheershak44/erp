@@ -122,7 +122,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-![Screenshot (65)](https://github.com/sheershak44/erp-system/assets/78754106/69c0683d-755a-41af-b8ce-c816d3584578)
+![Screenshot (65)](https://github.com/sheershak44/erp-system/assets/78754106/c79b0157-0d89-4724-8d4f-a3d6d7ad3ba3)
 
 
 
@@ -134,8 +134,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
   
-
-![Screenshot (66)](https://github.com/sheershak44/erp-system/assets/78754106/4776014e-f0ea-4bbe-b28a-3d9f804c570d)
+![Screenshot (66)](https://github.com/sheershak44/erp-system/assets/78754106/6fe53ddc-d9d7-4938-a683-136b5f9ea88c)
 
 
 
@@ -145,8 +144,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
   
-
-![Screenshot (67)](https://github.com/sheershak44/erp-system/assets/78754106/f19bfac1-cb07-4e7e-a0e3-546e8bca80fa)
+![Screenshot (67)](https://github.com/sheershak44/erp-system/assets/78754106/bc2f4e77-52e4-4d19-bed7-0a62b015f91b)
 
 
 
@@ -158,7 +156,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-![Screenshot (68)](https://github.com/sheershak44/erp-system/assets/78754106/5e19619f-1ff2-41b8-a1c7-d3e9dc0fa5a4)
+![Screenshot (68)](https://github.com/sheershak44/erp-system/assets/78754106/0be8aab7-5e8a-487b-b0fe-94e607e7478d)
 
 
 
@@ -170,8 +168,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
   
-
-![Screenshot (69)](https://github.com/sheershak44/erp-system/assets/78754106/e594ca1d-07bd-480c-b934-3c86b5e8305b)
+![Screenshot (69)](https://github.com/sheershak44/erp-system/assets/78754106/dfae6d15-0bac-445e-b968-f38d2e2a9cd3)
 
 
 
@@ -183,7 +180,9 @@ Navigate through the application using the nav bar at the top to access differen
 
   
 
-![Screenshot (70)](https://github.com/sheershak44/erp-system/assets/78754106/1008963e-27d5-4e8a-81e4-d94dbd622caa)
+
+![Screenshot (70)](https://github.com/sheershak44/erp-system/assets/78754106/85435cbf-641c-47d5-9b08-90fded8be535)
+
 
 
 
@@ -195,7 +194,7 @@ Navigate through the application using the nav bar at the top to access differen
 
   
 
-![Screenshot (71)](https://github.com/sheershak44/erp-system/assets/78754106/b9edab01-e482-4b71-852c-a2ad64beb51b)
+![Screenshot (71)](https://github.com/sheershak44/erp-system/assets/78754106/56b3e12b-461c-4179-b903-60e9f120e10b)
 
 
 
@@ -206,8 +205,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
   
-
-![Screenshot (72)](https://github.com/sheershak44/erp-system/assets/78754106/2c4ca100-f9c5-4b93-a057-513c32abdffb)
+![Screenshot (72)](https://github.com/sheershak44/erp-system/assets/78754106/1eaac0a2-491b-4fe1-9b07-3efd6b3bfee3)
 
 
 
@@ -222,10 +220,12 @@ Navigate through the application using the nav bar at the top to access differen
 
   
 
-![Screenshot (73)](https://github.com/sheershak44/erp-system/assets/78754106/2a6ee12a-a6a1-4de5-996d-dd4e2c8c6c63)
+![Screenshot (73)](https://github.com/sheershak44/erp-system/assets/78754106/bd005541-832c-47be-877c-89b3ae0785de)
 
 
-![Screenshot (74)](https://github.com/sheershak44/erp-system/assets/78754106/63711005-8d7c-4289-b800-95ff580e0f99)
+
+
+![Screenshot (74)](https://github.com/sheershak44/erp-system/assets/78754106/ccd9795a-22b9-4f3a-956e-19c5258285a3)
 
 
 
@@ -236,7 +236,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-![Screenshot (75)](https://github.com/sheershak44/erp-system/assets/78754106/d87cdf3b-77d4-4f4f-af58-1f42814915eb)  
+![Screenshot (75)](https://github.com/sheershak44/erp-system/assets/78754106/ea0c0962-abe5-4ab8-82e1-cce2fe49b483)
 
 
 
@@ -246,7 +246,8 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-![Screenshot (76)](https://github.com/sheershak44/erp-system/assets/78754106/a612cf9c-44ce-4f91-b281-53eeb6452396)
+
+![Screenshot (76)](https://github.com/sheershak44/erp-system/assets/78754106/6e140a77-2b1f-4584-9534-43087c645ec2)
 
 
 
@@ -256,7 +257,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-  ![Screenshot (78)](https://github.com/sheershak44/erp-system/assets/78754106/7c5f106a-1877-4cbf-a32d-e1675abd90ec)
+  ![Screenshot (78)](https://github.com/sheershak44/erp-system/assets/78754106/38ea9b50-31c9-47e4-9b66-3ed8ba4ac1f7)
 
 
 
@@ -266,8 +267,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-
-![Screenshot (79)](https://github.com/sheershak44/erp-system/assets/78754106/7138cd90-991c-4311-a82f-b07ed4d54f16)
+![Screenshot (79)](https://github.com/sheershak44/erp-system/assets/78754106/a5e77dcf-1e49-43ad-bb00-f7888da69f2e)
  
 
 
@@ -279,7 +279,7 @@ Navigate through the application using the nav bar at the top to access differen
 
   
 
-![Screenshot (80)](https://github.com/sheershak44/erp-system/assets/78754106/f55981c3-b16d-4d75-9063-3dd15981fdcc)
+![Screenshot (80)](https://github.com/sheershak44/erp-system/assets/78754106/8d3422b2-50e2-4506-bc9d-4e75bf2801de)
 
 
 
@@ -291,7 +291,7 @@ Navigate through the application using the nav bar at the top to access differen
 
   
 
-![Screenshot (83)](https://github.com/sheershak44/erp-system/assets/78754106/05f6a473-c3d2-4613-858e-a5224dc74e4d)
+![Screenshot (83)](https://github.com/sheershak44/erp-system/assets/78754106/a59fa76e-7f28-4e04-978f-3d84990b788e)
 
 
 
@@ -302,7 +302,8 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-![Screenshot (81)](https://github.com/sheershak44/erp-system/assets/78754106/622b4f75-77a6-4640-b387-69998046fba5)
+
+![Screenshot (81)](https://github.com/sheershak44/erp-system/assets/78754106/46793ace-7750-4646-935a-56c5a91c491f)
 
 
 
@@ -314,7 +315,7 @@ Navigate through the application using the nav bar at the top to access differen
 
   
 
-![Screenshot (82)](https://github.com/sheershak44/erp-system/assets/78754106/b3bf9f1f-a3fb-4560-801e-9d65a2c6e49d)
+![Screenshot (82)](https://github.com/sheershak44/erp-system/assets/78754106/99513d61-0a18-4ab2-a459-8dde688c77bc)
 
 
 
