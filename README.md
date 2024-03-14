@@ -220,7 +220,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 #### Managing Orders : 
 
-* Accessing Order Management : Select "Manage Orders" from the dashboard page or the ORDERS link in the nav bar to access the Orders Management page . Here the 13th March date is getting highlighted in yellow as it shows the current date when the screenshot was captured. Here `4` orders are being displayed or listed with their details as they are mock data i.e. hardcoded.
+* Accessing Order Management : Select "Manage Orders" from the dashboard page or the ORDERS link in the nav bar to access the Orders Management page . Here `4` orders are being displayed or listed with their details as they are mock data i.e. hardcoded.
 
 
 
@@ -237,7 +237,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-* Viewing Orders: Orders are listed with details such as ID, customer name, order date, and status. There are four orders which we have hardcoded using mock data as it was mentioned in the assessment form. Four orders are of expected delivery date `2024-03-20` and `2024-03-22` and `2024-03-17` and `2024-03-18` . Format we have used is `YYYY-MM-DD`. Below 15th March date is selected in calender , as no orders are there on that date so it is showing `No orders for this date`
+* Viewing Orders: Orders are listed with details such as ID, customer name, order date, and status. There are four orders which we have hardcoded using mock data as it was mentioned in the assessment form. Here the 13th March date is getting highlighted in yellow as it shows the current date when the screenshot was captured . Four orders are of expected delivery date `2024-03-20` and `2024-03-22` and `2024-03-17` and `2024-03-18` . Format we have used is `YYYY-MM-DD`. Below 15th March date is selected in calender , as no orders are there on that date so it is showing `No orders for this date`
 
 
 
