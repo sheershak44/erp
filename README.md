@@ -262,7 +262,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-  * As we can see below the total number of orders decreased from `4` to `3` in the dashboard page. This happened because we deleted the one order from the order management page so it became from 4 orders to 3 order.
+  * And when we press the refresh button in the dashboard page and refresh it , we can see below the total number of orders decreased from `4` to `3` in the dashboard page. This happened because we deleted the one order from the order management page so it became from 4 orders to 3 order.
 
 
 
@@ -309,7 +309,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-* Now lastly , as we can see below the total number of orders decreased from `3` to `2` in the dashboard page. This happened because we deleted the one order from the order management page so it became from 3 orders to 2 order.
+* Now lastly , as we can see below the total number of orders decreased from `3` to `2` in the dashboard page after refreshing the page . This happened because we deleted the one order from the order management page so it became from 3 orders to 2 order.
 
 
 
