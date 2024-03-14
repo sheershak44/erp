@@ -237,7 +237,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-* Viewing Orders: Orders are listed with details such as ID, customer name, order date, and status. There are four orders which we have hardcoded using mock data as it was mentioned in the assessment form. Here the 13th March date is getting highlighted in yellow as it shows the current date when the screenshot was captured . Four orders are of expected delivery date `2024-03-20` and `2024-03-22` and `2024-03-17` and `2024-03-18` . Format we have used is `YYYY-MM-DD`. Below 15th March date is selected in calender , as no orders are there on that date so it is showing `No orders for this date`
+* Viewing Orders: Orders are listed with details such as ID, customer name, order date, and status. There are four orders which we have hardcoded using mock data as it was mentioned in the assessment form. Here the 13th March date is getting highlighted in yellow as it shows the current date when the screenshot was captured . Four orders are of expected delivery date `2024-03-20` and `2024-03-22` and `2024-03-17` and `2024-03-18` . Format we have used is `YYYY-MM-DD`. Below , 15th March date is selected in calender , as no orders are there on that date so it is showing `No orders for this date`
 
 
 
@@ -258,7 +258,7 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
-* Second order with `orderID - 2` has been removed as we clicked the delete button . Now only `3` orders are remaining , as we can see below :
+* Deleting an Order: Click the "Delete" button to remove an order. Second order with `orderID - 2` has been removed as we clicked the delete button . Now only `3` orders are remaining , as we can see below :
 
 
 
