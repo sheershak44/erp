@@ -31,13 +31,13 @@ This ERP System is designed to manage basic business operations efficiently. It 
 
 To set up the project locally, follow these steps:
 
-1.	Clone the repository -	````git clone```` 
+1.	Clone the repository -	````git clone https://github.com/sheershak44/erp-system.git```` 
 
-2.	Navigate to the project directory - 
-	````cd erp-system````
-
-3.	Create react app -
+2.	Create react app -
  	````npm create vite@latest````
+
+3.	Navigate to the project directory - 
+	````cd erp-system````
 
 4.	Install dependencies -
 
@@ -59,8 +59,14 @@ To set up the project locally, follow these steps:
 	````npm install react-calendar````
 
 
+	````npm install react-redux````
 
-6.	Start the development server - 
+
+ 	````npm install @reduxjs/toolkit````
+
+
+6.	Start the development server -
+
   	````npm run dev````
 
 7. For using Tailwind -
