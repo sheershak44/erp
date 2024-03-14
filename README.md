@@ -325,6 +325,18 @@ Navigate through the application using the nav bar at the top to access differen
 
 
 
+## Video Tutorial of the project
+
+
+
+
+
+https://github.com/sheershak44/erp-system/assets/78754106/e35a7ee1-3e85-4eb9-974d-e42f084764fc
+
+
+
+
+
 
 
 
